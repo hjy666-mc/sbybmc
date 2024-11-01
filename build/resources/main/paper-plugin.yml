@@ -1,0 +1,7 @@
+name: sbyb_server_plugin
+version: 'v1.0.0-1.20.4'
+main: sbub.fun.sbyb_server_plugin.Sbyb_server_plugin
+api-version: '1.20'
+authors: [ hjy_666 ]
+description: This plugin is for paper1.20.4 sbyb.fun
+website: sbyb.fun
